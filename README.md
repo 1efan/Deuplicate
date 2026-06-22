@@ -3,7 +3,7 @@
 
   # Deuplicate
 
-  **A Minecraft modpack built around the Deuplicate mod — spend hearts to create autonomous duplicates of yourself that mine, fight, and work, even while you're offline.**
+  **A Minecraft modpack built around the Deuplicate mod - spend hearts to create autonomous duplicates of yourself that mine, fight, and work, even while you're offline.**
 </div>
 
 ---
@@ -25,7 +25,7 @@ Click the green **`< > Code`** button near the top of this page, then **Download
 ![Download as ZIP](assets/downloadinstructions.png)
 
 **2. Import it into CurseForge.**
-Open the CurseForge app and bring in the ZIP like any normal modpack — **drag-and-drop the ZIP onto CurseForge**, or use **Create Custom Profile → Import** and select the ZIP.
+Open the CurseForge app and bring in the ZIP like any normal modpack - **drag-and-drop the ZIP onto CurseForge**, or use **Create Custom Profile → Import** and select the ZIP.
 
 **3. Launch the profile and play.**
 
