@@ -1,47 +1,24 @@
 {
   "minecraft": {
-    "version": "26.1",
+    "version": "26.1.2",
     "modLoaders": [
       {
-        "id": "fabric-0.18.6",
+        "id": "fabric-0.19.3",
         "primary": true
       }
     ],
-    "recommendedRam": 8064
+    "recommendedRam": 8192
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Deuplicate",
   "version": "",
   "author": "",
+  "overrides": "overrides",
   "files": [
     {
-      "projectID": 248787,
-      "fileID": 7854450,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 576459,
-      "fileID": 8107208,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 388172,
-      "fileID": 7806318,
-      "required": true,
-      "isLocked": false
-    },
-    {
-      "projectID": 348521,
-      "fileID": 7817582,
-      "required": true,
-      "isLocked": false
-    },
-    {
       "projectID": 306612,
-      "fileID": 8251786,
+      "fileID": 8301696,
       "required": true,
       "isLocked": false
     },
@@ -51,7 +28,5 @@
       "required": true,
       "isLocked": false
     }
-  ],
-  "overrides": "overrides",
-  "image": "profileImage/icon.png"
+  ]
 }
